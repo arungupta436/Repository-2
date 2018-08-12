@@ -7,6 +7,8 @@ public class Manager {
 		System.out.println("My  Nama is Sanam");
 		System.out.println("My  Nama is Sanam");
 		System.out.println("My  Nama is Sanam");
+		System.out.println("My  Nama is Sanam 3");
+		System.out.println("My  Nama is Sanam 3");
 
 	}
 
