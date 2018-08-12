@@ -5,7 +5,8 @@ public class Manager {
 		// TODO Auto-generated method stub
 		System.out.println("My  Nama is Sanam");
 		System.out.println("My  Nama is Sanam");
-
+		System.out.println("My  Nama is Sanam");
+		System.out.println("My  Nama is Sanam");
 	}
 
 }
